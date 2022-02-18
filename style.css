@@ -1,0 +1,36 @@
+
+
+
+body}
+    font-family: sans-serif;
+    background-color: PaleTurquoise;
+    color: darkblue;
+    border-radius:10px;
+    margin:10px;
+    height: 70px;
+
+}
+header a
+{
+border-radius:5px;
+background-color: rgb(231, 158, 158);
+text-decoration:none;
+padding:10px;
+margin:10px;
+}
+
+h1{
+   color:rgb(7, 7, 7);
+   font-family: 'Times New Roman', Times, serif; 
+   text-align:center;
+}
+
+nav,a{
+    background-color: rgb(194, 248, 194);
+    border-radius: 10px;
+    margin:30px;
+    padding: 30px;
+}
+a{
+     background-color:rgb(252, 231, 231);
+}
